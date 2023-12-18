@@ -303,6 +303,10 @@ section {
   transform: translateY(-8px);
   cursor: pointer;
 }
+.achievements {
+  height: 80vh;
+  margin-bottom: 40px;
+}
 .achiev-icon i {
   font-size: 34px;
   padding-right: 20px;
@@ -311,6 +315,9 @@ section {
 .achieve-content h5 {
   padding-bottom: 10px;
   letter-spacing: 1.1px;
+}
+.skills-section {
+  height: 70vh;
 }
 .skills {
   display: grid;
